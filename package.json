@@ -1,6 +1,6 @@
 {
   "name": "vue-wc-model",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Adds a compiler directive in order to allow for v-model ('v-wcmodel') on custom components.",
   "main": "dist/index.js",
   "scripts": {
