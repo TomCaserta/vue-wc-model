@@ -10,6 +10,10 @@
   "author": "Thomas Caserta <tom@caserta.co.uk>",
   "license": "MIT",
   "url": "https://github.com/TomCaserta/vue-wc-model",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/TomCaserta/vue-wc-model"
+  },
   "devDependencies": {
     "typescript": "^3.1.3"
   }
